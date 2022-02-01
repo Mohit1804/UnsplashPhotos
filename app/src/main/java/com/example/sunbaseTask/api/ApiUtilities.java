@@ -1,4 +1,4 @@
-package com.example.internshalaproject1.api;
+package com.example.sunbaseTask.api;
 
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

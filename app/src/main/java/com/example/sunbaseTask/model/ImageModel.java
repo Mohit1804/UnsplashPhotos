@@ -1,6 +1,4 @@
-package com.example.internshalaproject1.model;
-
-import retrofit2.http.Url;
+package com.example.sunbaseTask.model;
 
 public class ImageModel {
 

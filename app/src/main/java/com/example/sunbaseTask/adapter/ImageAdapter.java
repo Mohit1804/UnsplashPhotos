@@ -1,4 +1,4 @@
-package com.example.internshalaproject1.adapter;
+package com.example.sunbaseTask.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -10,9 +10,8 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.example.internshalaproject1.HomeFragment;
-import com.example.internshalaproject1.R;
-import com.example.internshalaproject1.model.ImageModel;
+import com.example.sunbaseTask.R;
+import com.example.sunbaseTask.model.ImageModel;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package com.example.internshalaproject1.model;
+package com.example.sunbaseTask.model;
 
 public class UrlModel {
     private String regular;

@@ -1,21 +1,20 @@
-package com.example.internshalaproject1;
+package com.example.sunbaseTask;
 
 import android.app.ProgressDialog;
 import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.Toast;
-
-import com.example.internshalaproject1.adapter.ImageAdapter;
-import com.example.internshalaproject1.api.ApiUtilities;
-import com.example.internshalaproject1.model.ImageModel;
+import com.example.sunbaseTask.adapter.ImageAdapter;
+import com.example.sunbaseTask.api.ApiUtilities;
+import com.example.sunbaseTask.model.ImageModel;
 
 import java.util.ArrayList;
 import java.util.List;

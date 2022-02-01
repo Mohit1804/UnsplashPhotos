@@ -1,15 +1,14 @@
-package com.example.internshalaproject1.api;
+package com.example.sunbaseTask.api;
 
-import static com.example.internshalaproject1.api.ApiUtilities.API_KEY;
+import static com.example.sunbaseTask.api.ApiUtilities.API_KEY;
 
-import com.example.internshalaproject1.model.ImageModel;
-import com.example.internshalaproject1.model.SearchModel;
+import com.example.sunbaseTask.model.ImageModel;
+import com.example.sunbaseTask.model.SearchModel;
 
 import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
-import retrofit2.http.Header;
 import retrofit2.http.Headers;
 import retrofit2.http.Query;
 

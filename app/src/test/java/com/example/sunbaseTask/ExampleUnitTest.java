@@ -1,4 +1,4 @@
-package com.example.internshalaproject1;
+package com.example.sunbaseTask;
 
 import org.junit.Test;
 
